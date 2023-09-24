@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![shiraishi's GitHub stats](https://github-readme-stats-pi-dusky-37.vercel.app/api?username=seiichi-shiraishi&count_private=true&show_icons=true&layout=compact&theme=dark)](https://github.com/seiichi-shiraishi/github-readme-stats)
-[![Top Langs](https://github-readme-stats-pi-dusky-37.vercel.app/api/top-langs/?username=seiichi-shiraishi&random=random&count_private=true&layout=compact&theme=dark)](https://github.com/seiichi-shiraishi/github-readme-stats)
+[![shiraishi's GitHub stats](https://github-readme-stats-pi-dusky-37.vercel.app/api?username=seiichi-shiraishi&count_private=true&show_icons=true&layout=compact&theme=dark&cache_seconds=14400)](https://github.com/seiichi-shiraishi/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-dusky-37.vercel.app/api/top-langs/?username=seiichi-shiraishi&random=random&count_private=true&layout=compact&theme=dark&cache_seconds=14400)](https://github.com/seiichi-shiraishi/github-readme-stats)
