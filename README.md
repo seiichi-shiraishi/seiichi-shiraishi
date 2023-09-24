@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats-gdkh.vercel.app/api?username=seiichi-shiraishi&count_private=true&show_icons=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![shiraishi's GitHub stats](https://github-readme-stats-gdkh.vercel.app/api?username=seiichi-shiraishi&count_private=true&show_icons=true&layout=compact&theme=dark)](github-readme-stats-gdkh)
 [![Top Langs](https://github-readme-stats-chi-ten-59.vercel.app/api/top-langs/?username=seiichi-shiraishi&random=random&count_private=true&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
